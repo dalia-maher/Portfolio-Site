@@ -1,8 +1,10 @@
+/* body */
 body {
     font-family: Helvetica, Arial, sans-serif;
     color: #2d3c49;
 }
 
+/* header */
 header {
     padding: 15px;
     border: 3px #7d97ad;
@@ -18,6 +20,7 @@ header {
     margin-bottom: 30px;
 }
 
+/* Featured Work */
 .code-image {
     margin-top: 20px;
     width: 100%;
@@ -39,6 +42,7 @@ header {
 	opacity: 0.6;
 }
 
+/* header */
 footer {
     border: 3px #7d97ad;
     border-style: solid none none none;
