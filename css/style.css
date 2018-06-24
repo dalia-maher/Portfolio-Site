@@ -1,0 +1,47 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #2d3c49;
+}
+
+header {
+    padding: 15px;
+    border: 3px #7d97ad;
+    border-style: none none solid none;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+}
+
+.code-div {
+    margin-bottom: 30px;
+}
+
+.code-image {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.title {
+    color: #7d97ad;
+}
+
+.portfolio-image {
+    height: 200px;
+    width: 100%;
+    border-radius: 5px;
+    transition: 0.3s;
+	margin-bottom: 10px;
+}
+
+.portfolio-image:hover {
+	opacity: 0.6;
+}
+
+footer {
+    border: 3px #7d97ad;
+    border-style: solid none none none;
+    padding: 15px 0 15px 0;
+    margin-top: 20px;
+}
