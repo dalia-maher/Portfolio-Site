@@ -21,5 +21,22 @@ git clone https://github.com/dalia-maher/Portfolio-Site
 
 ## Project Functionalities
 
-1. You can find a list of 3 projects rendered on the page under "Featured Work"
+1. You can find a list of 3 projects rendered on the page under "Featured Work" as well as info about the portfolio's owner such as name and social media links
 2. Clicking on any of the projects should open the project's link in a new tab in the browser
+
+## Project Contents
+
+### design-mockup-portfolio.pdf:
+The mockup design required to be implemented for the portfolio.
+
+### index.html:
+The web page that's loaded in the browser containing the portfolio's main components.
+
+### css:
+Folder containing external style sheets that are linked to the HTML page.
+
+### img:
+Folder containing image sources included in the project.
+
+### fonts:
+Folder containing the fonts used in the website.
